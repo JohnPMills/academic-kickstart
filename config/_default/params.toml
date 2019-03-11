@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "forest"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "playfair"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -18,7 +18,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "jpmillsphd"
+twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -50,10 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "john.mills@essex.ac.uk"
-phone = "0044 1206 872128
-address = "School of Sport, Rehabilitation and Exercise Sciences, University of Essex, Colchester, Essex, CO4 3SQ
-"
+email = "test@example.org"
+phone = "888 888 88 88"
+address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
