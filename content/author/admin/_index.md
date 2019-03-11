@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "John P. Mills"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Lecturer in Social Psychology of Sport"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Essex", url = "https://www.essex.ac.uk/people/mills29305/john-mills/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include leadership and coaching, moral development, and group dynamics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "john.mills@essex.ac.uk"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Leadership and Coaching",
+  "Moral Development",
+  "Group Dynamics"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +34,14 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Leadership and Coaching"
+  institution = "University of Birmingham"
+  year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Psychology and Childhood Development"
+  institution = "Suffolk University"
+  year = 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,22 +51,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:john.mills@essex.ac.uk".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/jpmillsphd"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.uk/citations?user=CpozT1QAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/JohnPMills"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +77,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+John P. Mills is a lecturer in leadership and coaching in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex, UK. His research interests include leadership and coaching, moral development, and group dynamics. He leads the Developing Young People through Sport group, which examines ways in which sports competition and practice can be engineered for positive youth development outcomes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dr Mills is also the founder of <a href="https://www.sportrxiv.org">SportRₓiv</a> and is currently serving as the founding chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">STORK</a>.
