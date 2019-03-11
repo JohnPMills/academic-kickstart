@@ -59,7 +59,7 @@ office_hours = """Tuesday 10:00 to 12:00<br>
                   Thursday 09:30 to 11:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/jpmillsphd"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
