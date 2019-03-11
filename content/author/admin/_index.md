@@ -79,4 +79,4 @@ user_groups = ["Researchers", "Visitors"]
 
 John P. Mills is a lecturer in leadership and coaching in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex, UK. His research interests include leadership and coaching, moral development, and group dynamics. He leads the Developing Young People through Sport group, which examines ways in which sports competition and practice can be engineered for positive youth development outcomes.
 
-Dr Mills is also the founder of <a href="https://www.sportrxiv.org">SportRχiv</a> and is currently serving as the founding chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">STORK</a>.
+Dr Mills is also the founder of <a href="https://www.sportrxiv.org">SportRχiv</a> and is currently serving as the inaugural chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">(STORK)</a>.
