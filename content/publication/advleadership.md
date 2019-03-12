@@ -21,11 +21,7 @@ publication = "*Sports Medicine*"
 publication_short = "*Sports Medicine*"
 
 # Abstract and optional shortened version.
-abstract = "Cruickshank and Collins (2017) ‘Advancing Leadership in Sport: Time to
-Take Off the Blinkers?’ has created something of a furore around the effectiveness and suitability of dark leadership traits and behaviours. This paper attempts to
-clarify some of the conceptual issues discussed within their paper, while also redressing a number of literary misrepresentations. Finally, the potential limitations
-of Cruickshank and Collins’ research are discussed, as well as the wider context of
-research that arguably may promote use of dark leadership behaviours in coaching."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
