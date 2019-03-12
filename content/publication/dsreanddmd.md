@@ -22,20 +22,7 @@ publication = "*Psychology of Sport and Exercise*"
 publication_short = "*PSE*"
 
 # Abstract and optional shortened version.
-abstract = "Objectives
-To develop Moral Disengagement (MD) and Self-Regulatory Efficacy (SRE) instruments relevant to doping in sport and exercise and provide evidence for the validity and reliability of instrument scores.
-
-Design
-Cross-sectional, correlational.
-
-Methods
-Data were collected from male and female team- and individual-sport athletes and corporate- and bodybuilding-gym exercisers. Two samples (nsample 1 = 318; nsample 2 = 300) were utilized in instrument development and score validation and another (nsample 3 = 101) in examining test-retest reliability and stability of scores. Samples 1 and 2 responded to the newly developed items alongside others assessing theoretically-related variables, whereas Sample 3 completed the new instruments on two separate occasions.
-
-Results
-Factor analyses identified the final items and dimensional structures for the Doping Moral Disengagement Scale (DMDS), Doping Moral Disengagement Scale–Short (DMDS–S) and Doping Self-Regulatory Efficacy Scale (DSRES). The DMDS has six lower- and one higher-order factor, whereas the DMDS-S and DSRES are unidimensional. These structures were invariant by sex and sport/exercise context. Evidence supporting external validity, test-retest reliability, and stability of scores was also provided.
-
-Conclusion
-This research developed and provided evidence of score validity and internal consistency for three instruments relevant to doping in sport and exercise."
+abstract = "Objectives:To develop Moral Disengagement (MD) and Self-Regulatory Efficacy (SRE) instruments relevant to doping in sport and exercise and provide evidence for the validity and reliability of instrument scores. Design: Cross-sectional, correlational. Methods: Data were collected from male and female team- and individual-sport athletes and corporate- and bodybuilding-gym exercisers. Two samples (nsample 1 = 318; nsample 2 = 300) were utilized in instrument development and score validation and another (nsample 3 = 101) in examining test-retest reliability and stability of scores. Samples 1 and 2 responded to the newly developed items alongside others assessing theoretically-related variables, whereas Sample 3 completed the new instruments on two separate occasions. Results: Factor analyses identified the final items and dimensional structures for the Doping Moral Disengagement Scale (DMDS), Doping Moral Disengagement Scale–Short (DMDS–S) and Doping Self-Regulatory Efficacy Scale (DSRES). The DMDS has six lower- and one higher-order factor, whereas the DMDS-S and DSRES are unidimensional. These structures were invariant by sex and sport/exercise context. Evidence supporting external validity, test-retest reliability, and stability of scores was also provided. Conclusion: This research developed and provided evidence of score validity and internal consistency for three instruments relevant to doping in sport and exercise."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
