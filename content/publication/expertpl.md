@@ -1,11 +1,9 @@
 +++
-title = "Cardiovascular risk remains high in schizophrenia with modest improvements in bipolar disorder during past decade"
-date = 2019-01-29T00:00:00
+title = " Expert Premier League soccer managers’ use of transformational leadership behaviours and attitude towards sport integrity: An intrinsic case study."
+date = 2016-01-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L Rødevand", "NE Steen", "T Elvsåshagen",
- "**DS Quintana**", "EJ Reponen", "RH Mørch", "SH Lunding",
- "TSJ Vedal", "I Dieset", "I Melle", "TV Lagerberg", "OA Andreassen"]
+authors = ["JP Mills", "ID Boardley"]
 
 # Publication type.
 # Legend:
@@ -19,11 +17,11 @@ authors = ["L Rødevand", "NE Steen", "T Elvsåshagen",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Acta Psychiatrica Scandinavica*"
-publication_short = "*Acta Psychiatrica Scandinavica*"
+publication = "*International journal of Sports Science and Coaching*"
+publication_short = "*IJSSC*"
 
 # Abstract and optional shortened version.
-abstract = "Objective: While CVD risk has decreased in the general population during the last decade, the situation in patients with schizophrenia (SCZ) and bipolar disorder (BD) is unknown. Methods: We compared CVD risk factors in patients with SCZ and BD recruited from 2002–2005 (2005 sample, N = 270) with patients recruited from 2006–2017 (2017 sample, N = 1011) from the same catchment area in Norway. The 2017 sample was also compared with healthy controls (N = 922) and the general population (N range = 1285–4587, Statistics Norway) from the same area and period. Results: Patients with SCZ and BD in the 2017 sample had significantly higher level of most CVD risk factors compared to healthy controls and the general population. There was no significant difference in the prevalence of CVD risk factors in SCZ between the 2005 and 2017 samples except a small increase in glucose in the 2017 sample. There were small‐to‐moderate reductions in hypertension, obesity, total cholesterol, low‐density lipoprotein, systolic and diastolic blood pressure in the BD 2017 sample compared to the 2005 sample. Conclusion: Despite major advances in health promotion during the past decade, there has been no reduction in the level of CVD risk factors in patients with SCZ and modest improvement in BD."
+abstract = "The present study is the first to examine transformational leadership behaviours and integrity attitudes of expert, Premier League and International level football managers. To provide a rich, detailed exploration of the expert managers’ experiences, a qualitative approach was adopted utilising holistic content analysis. Constructed narratives revealed that the key behaviours demonstrated were inspirational messages or team talks (i.e. inspirational motivation), empathy (i.e. individualised consideration), introducing new training methods (i.e. intellectual stimulation), using exemplar players (i.e. appropriate role modelling), and goal setting (i.e. high performance expectations). However, the use and effect of such behaviours varied greatly between managers. Each of the managers also claimed to have been willing to “bend the rules” as a player and frequently used euphemistic labels to describe such behaviour. However, upon entering management, all three managers claimed to have adjusted such attitudes without providing an explanation for this."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -35,11 +33,11 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-   projects = ["hrv"]
+   projects = [""]
 
 # Links (optional).
-url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1111/acps.13008"
-url_preprint = ""
+url_pdf = "https://journals.sagepub.com/doi/abs/10.1177/1747954116645011?journalCode=spoa"
+url_preprint = "http://repository.essex.ac.uk/20776/"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -50,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#   url_custom = [{name = "Open Access", url = "http://jpn.ca/vol41-issue2/41-2-89/"}]
+#   url_custom = [{name = "Open Access", url = "http://repository.essex.ac.uk/20776/}]
 
 # Does the content use math formatting?
 math = true
@@ -67,5 +65,5 @@ caption = "My caption :smile:"
 +++
 
 #### Full citation
-Rødevand, L., Steen, N. E., Elvsåshagen, T., Quintana, D. S., Reponen, E. J., Mørch, R. H., Lunding S.H., Vedal T.S.J., Dieset, I, Melle, I, Lagerberg, T. V., Andreassen, O.A. (2019). Cardiovascular risk remain high in schizophrenia with modest improvements in bipolar disorder during past decade. Acta Psychiatrica Scandinavica. https://doi.org/10.1111/acps.13008
+Mills, JP. and Boardley, ID., (2016). Expert Premier League soccer managers’ use of transformational leadership behaviours and attitude towards sport integrity: An intrinsic case study. International journal of Sports Science and Coaching. 11 (3), 382-394
 
