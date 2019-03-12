@@ -36,8 +36,8 @@ selected = false
    projects = [""]
 
 # Links (optional).
-url_pdf = "http://repository.essex.ac.uk/23899/"
-url_preprint = ""
+url_pdf = "https://psycnet.apa.org/record/2019-12576-003"
+url_preprint = "https://psyarxiv.com/hz4zb/"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -65,5 +65,4 @@ caption = "My caption :smile:"
 +++
 
 #### Full citation
-Mills, J., When the Managerial Merry-go-round Stops: A Case Study of how Disconfirming Episodes Affect the Identities of Expert Football Managers. The Psychologist-Manager Journal
-
+Mills, J. P. (2019). When the managerial merry-go-round stops: A case study of how disconfirming episodes affect the identities of expert football managers. The Psychologist-Manager Journal, 22(1), 46-64. http://dx.doi.org/10.1037/mgr0000083

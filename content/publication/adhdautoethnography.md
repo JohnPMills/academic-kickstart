@@ -1,6 +1,6 @@
 +++
 title = "'Hey, look at me' An {auto}ethnographic account of experiencing ADHD symptoms within sport"
-date = 2019-01-29T00:00:00
+date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["C Ing", "JP Mills"]

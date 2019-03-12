@@ -1,0 +1,72 @@
++++
+title = " Advancing Leadership in Sport: Time to ‘Actually’ Take the Blinkers Off?"
+date = 2017-05-29T00:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["JP Mills", "ID Boardley"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "*Sports Medicine*"
+publication_short = "*Sports Medicine*"
+
+# Abstract and optional shortened version.
+abstract = "Cruickshank and Collins [2] ‘Advancing Leadership in Sport: Time to
+Take Off the Blinkers?’ has created something of a furore around the effectiveness and suitability of dark leadership traits and behaviours. This paper attempts to
+clarify some of the conceptual issues discussed within their paper, while also redressing a number of literary misrepresentations. Finally, the potential limitations
+of Cruickshank and Collins’ research are discussed, as well as the wider context of
+8 research that arguably may promote use of dark leadership behaviours in coaching."
+abstract_short = ""
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+   projects = [""]
+
+# Links (optional).
+url_pdf = "https://link.springer.com/article/10.1007/s40279-016-0661-3"
+url_preprint = "https://pdfs.semanticscholar.org/5cdc/8f67f046edf8ac9eb63250e27c79b28b6bc2.pdf"
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+#   url_custom = [{name = "Open Access", url = "https://pdfs.semanticscholar.org/5cdc/8f67f046edf8ac9eb63250e27c79b28b6bc2.pdf"}]
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = "My caption :smile:"
+
++++
+
+#### Full citation
+Mills, JP. and Boardley, ID., (2017). Advancing Leadership in Sport: Time to ‘Actually’ Take the Blinkers Off?. Sports Medicine. 47 (3), 565-570
