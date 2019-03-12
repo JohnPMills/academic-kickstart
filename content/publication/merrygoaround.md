@@ -3,7 +3,7 @@ title = "When the Managerial Merry-go-round Stops: A Case Study of how Disconfir
 date = 2019-01-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**JP Mills"]
+authors = ["JP Mills"]
 
 # Publication type.
 # Legend:
