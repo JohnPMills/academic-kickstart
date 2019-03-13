@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Examining the Role of Personal Ethics in Athlete and StakeholderPerceptions of Anti-Doping"
+title = "Examining the Role of Personal Ethics in Athlete and Stakeholder Perceptions of Anti-Doping"
 
 # Date this page was created.
 date = 2019-01-01T00:00:00
