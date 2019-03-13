@@ -3,7 +3,7 @@
 title = "Engineering Youth Competition in Association Football for Retention: Assessing the Effectiveness of Rule Change Intervention"
 
 # Date this page was created.
-date = 2019-03-10T00:00:00
+date = 2018-09-10T00:00:00
 
 # Project summary to display on homepage.
 summary = ""
