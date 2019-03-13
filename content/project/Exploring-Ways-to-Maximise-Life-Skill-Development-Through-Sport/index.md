@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Using Sport as a Vehicle to Develop Positive Classroom Behaviours and Attitudes Towards Learning"
+title = "Developing Positive Classroom Behaviours and Attitudes Towards Learning through Sport"
 
 # Date this page was created.
 date = 2018-10-01T00:00:00
