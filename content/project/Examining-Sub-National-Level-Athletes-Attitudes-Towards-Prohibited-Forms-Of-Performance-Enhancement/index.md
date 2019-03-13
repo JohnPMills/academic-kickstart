@@ -6,7 +6,7 @@ title = "Under the Radar: Examining Sub-National-Level Athlete's Attitudes Towar
 date = 2018-03-29T00:00:00
 
 # Project summary to display on homepage.
-summary = "The current study aims to examine the relationship between perceived career threat, potential moderating psychological mechanisms, and athlete’s attitudes towards, and reported use of, prohibited performance enhancing substances and methods in a sample of Sub-National-level athletes."
+summary = "Funded by BA/Leverhulme"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
