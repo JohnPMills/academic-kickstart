@@ -10,7 +10,7 @@ summary = "Funded by the World Anti-Doping Agency"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Doping", "Performance-Enhancement]
+tags = ["Doping", "Performance-Enhancement"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://dopingresearch.co.uk"
