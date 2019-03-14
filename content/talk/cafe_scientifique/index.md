@@ -24,7 +24,7 @@ event_url = "http://www.cafescientifique.org/"
 abstract = "Sport is in many ways, a dress rehearsal for life; be it receiving feedback, learning about one’s roles, responsibilities, obligations, and expectations; developing discipline, organisation, and communication; or experiencing highs and lows, victory and defeat.  As a social context capable of impacting others’ rights and wellbeing, sport also represents an important setting for the development of ethical thought and action (Bandura, 1991). However, sport, as of itself may not be a teacher.  Instead, sport may simply provide opportunities for teachable moments.  It is how we think and act in these moments, that, over time, shape who we are. In this talk, Dr. John Mills from the School of Sport, Rehabilitation and Exercise Sciences at the University of Essex will explore some contemporary research around sport and sports coaching, with the view of introducing and highlighting the role sport can play in developing both the person and the player."
 
 # Summary. An optional shortened abstract.
-summary = "The Minories Cafe, Colchester"
+summary = "The Minories Cafe, Colchester, UK"
 
 # Is this a featured talk? (true/false)
 featured = false
