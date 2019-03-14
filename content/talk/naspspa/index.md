@@ -1,37 +1,37 @@
 +++
-title = "Sport as a Dress Rehearsal for Life?"
+title = "Workshop on open-science practices in kinesiology -- in partnership between Society for Transparency, Openness, and Replication in Kinesiology (STORK) and NASPSPA"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-03-13T19:00:00
-date_end = 2019-03-13T20:00:00
+date = 2019-06-05T14:00:00
+date_end = 2019-06-05T18:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["JP Mills"]
+authors = ["K Lohse", "C Hill", "Zack Zenko", "A Miramonti", "JP Mills",]
 
 # Location of event.
-location = "Colchester, United Kingdom"
+location = "Baltimore, United States"
 
 # Name of event and optional event URL.
-event = "Cafe Scientifique"
-event_url = "http://www.cafescientifique.org/"
+event = "NASPSPA Annual Conference"
+event_url = "https://www.naspspa.com/2019-pre-conference-workshop/"
 
 # Abstract. What's your talk about?
-abstract = "Sport is in many ways, a dress rehearsal for life; be it receiving feedback, learning about one’s roles, responsibilities, obligations, and expectations; developing discipline, organisation, and communication; or experiencing highs and lows, victory and defeat.  As a social context capable of impacting others’ rights and wellbeing, sport also represents an important setting for the development of ethical thought and action (Bandura, 1991). However, sport, as of itself may not be a teacher.  Instead, sport may simply provide opportunities for teachable moments.  It is how we think and act in these moments, that, over time, shape who we are. In this talk, Dr. John Mills from the School of Sport, Rehabilitation and Exercise Sciences at the University of Essex will explore some contemporary research around sport and sports coaching, with the view of introducing and highlighting the role sport can play in developing both the person and the player."
+abstract = "The Society for Transparency, Openness, and Replication in Kinesiology (STORK) joins together with NASPSPA for a pre-conference workshop on open-science practices, 2-6pm on Wednesday, June 5th at the Hyatt Regency Inner Harbor Baltimore. This fun and informal workshop will cover a range of topics that create more transparent, rigorous, and shareable research practices. With minimal lecturing, experts in the field will guide group discussion and problem solving. This pre-conference workshop is completely free to members of NASPSPA who have registered for the 2019 Conference, but we do need you to register for the workshop in advance. To register, please contact: naspspa.preconference@gmail.com."
 
 # Summary. An optional shortened abstract.
-summary = "The Minories Cafe, Colchester"
+summary = "The Hyatt Regency, Baltimore, US."
 
 # Is this a featured talk? (true/false)
 featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Coaching", "Positive-Youth-Development", "Moral-Development"]
+tags = ["Open-Science", "Open-Access", "STORK"]
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
