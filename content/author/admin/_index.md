@@ -16,7 +16,7 @@ role = "Lecturer in Sports Performance and Coaching"
 organizations = [ { name = "University of Essex", url = "https://www.essex.ac.uk/people/mills29305/john-mills/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include leadership and coaching, moral development, and group dynamics."
+bio = "My research interests include leadership and coaching, moral development (i.e., character, teamwork and group dynamics, and anti-doping."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "john.mills@essex.ac.uk"
@@ -24,8 +24,9 @@ email = "john.mills@essex.ac.uk"
 # List (academic) interests or hobbies
 interests = [
   "Leadership and Coaching",
-  "Moral Development",
-  "Group Dynamics"
+  "Moral (Character) Development",
+  "Teamwork and Group Dynamics",
+  "Anti-Doping"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -77,6 +78,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-John P. Mills is a lecturer in sports performance and coaching in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex, UK. His research interests include leadership and coaching, moral development, and group dynamics. He leads the Developing Young People through Sport group, which examines ways in which sports competition and practice can be engineered for positive youth development.
+John P. Mills is a lecturer in sports performance and coaching in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex, UK. His research interests include leadership and coaching, moral (character) development, teamwork and group dynamics, and anti-doping. He leads the Developing Young People through Sport group, which examines ways in which sports competition and practice can be engineered for positive youth development.
 
-Dr Mills is also the founder of <a href="https://www.sportrxiv.org">SportRχiv</a> and is currently serving as the inaugural chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">(STORK)</a>. He is also a British Psychological Society Chartered Psychologist (CPsychol) and member of the Division of Sport and Exercise Psychology.
+Dr Mills is also the founder of <a href="https://www.sportrxiv.org">SportRχiv</a> and is currently serving as the Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">(STORK)</a>. He is also a British Psychological Society Chartered Psychologist (CPsychol) a member of the Division of Sport and Exercise Psychology, and a Fellow of the Higher Education Academy.
