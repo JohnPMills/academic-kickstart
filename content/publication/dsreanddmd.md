@@ -1,5 +1,5 @@
 +++
-title = "Development of Moral Disengagement and Self-Regulatory Efficacy Assessments Relevant to Doping in Sport and Exercise."
+title = "Development of Moral Disengagement and Self-Regulatory Efficacy Assessments Relevant to Doping in Sport and Exercise"
 date = 2018-09-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

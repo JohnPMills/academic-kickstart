@@ -1,5 +1,5 @@
 +++
-title = " Expert Premier League soccer managers’ use of transformational leadership behaviours and attitude towards sport integrity: An intrinsic case study."
+title = " Expert Premier League soccer managers’ use of transformational leadership behaviours and attitude towards sport integrity: An intrinsic case study"
 date = 2016-01-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

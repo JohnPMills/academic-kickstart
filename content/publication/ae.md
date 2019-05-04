@@ -1,5 +1,5 @@
 +++
-title = "An [AUTO]ethnographic account of constructing, deconstructing, and partially reconstructing a coaching identity. "
+title = "An [AUTO]ethnographic account of constructing, deconstructing, and partially reconstructing a coaching identity"
 date = 2015-01-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
