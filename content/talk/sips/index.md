@@ -1,9 +1,9 @@
 +++
-title = "TBC"
+title = "The role of personal ethics in athlete and stakeholder perceptions of anti-doping"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-06-05T14:00:00
+date = 2019-07-07T14:00:00
 date_end = 2019-06-05T18:00:00
 all_day = false
 
@@ -21,7 +21,8 @@ event = "SIPS Annual Conference 2019"
 event_url = "https://www.improvingpsych.org/SIPS2019/"
 
 # Abstract. What's your talk about?
-abstract = "TBC"
+abstract = "Whilst there has been a great deal of attention focused within the anti-doping literature on moral processes, existing evidence has been heavily influenced by Kohlberg’s Moral Development Theory. Unlike moral pluralists such as James (1909/1987), Kohlberg (1971, p. 232) argued that “Virtue is ultimately one, not many [processes], and it is always the same ideal form regardless of climate or culture”. This absolutist view of morality argues that certain acts are inherently right or wrong. However, such a position has been heavily criticised for failing to account for cultural differences (Gilligan,1982, Greene & Haidt, 2002). This project proposes to examine the moral mechanisms that underpin doping intentions across cultures so than bespoke value-based anti-doping training programmes may be developed.
+"
 
 # Summary. An optional shortened abstract.
 summary = "Rotterdam Marriott Hotel."
@@ -31,7 +32,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["TBC", "TBC", "TBC"]
+tags = ["Doping", "Ethics", "Anti-Doping"]
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
