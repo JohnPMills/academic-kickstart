@@ -21,10 +21,10 @@ event = "SIPS Annual Conference 2019"
 event_url = "https://www.improvingpsych.org/SIPS2019/"
 
 # Abstract. What's your talk about?
-abstract = "Whilst there has been a great deal of attention focused within the anti-doping literature on moral processes, existing evidence has been heavily influenced by Kohlberg’s Moral Development Theory. Unlike moral pluralists such as James (1909/1987), Kohlberg (1971, p. 232) argued that “Virtue is ultimately one, not many [processes], and it is always the same ideal form regardless of climate or culture”. This absolutist view of morality argues that certain acts are inherently right or wrong. However, such a position has been heavily criticised for failing to account for cultural differences (Gilligan,1982, Greene & Haidt, 2002). This project proposes to examine the moral mechanisms that underpin doping intentions across cultures so than bespoke value-based anti-doping training programmes may be developed."
+abstract = "Whilst there has been a great deal of attention focused within the anti-doping literature on moral processes, existing evidence has been heavily influenced by Kohlberg’s Moral Development Theory. Unlike moral pluralists such as James (1909/1987), Kohlberg (1971, p. 232) argued that “Virtue is ultimately one, not many [processes], and it is always the same ideal form regardless of climate or culture”. This absolutist view of morality argues that certain acts are inherently right or wrong. However, such a position has been heavily criticised for failing to account for cultural differences (Gilligan 1982, Greene & Haidt, 2002). This project proposes to examine the moral mechanisms that underpin doping intentions across cultures so that a bespoke value-based anti-doping training programmes may be developed."
 
 # Summary. An optional shortened abstract.
-summary = "This project proposes to examine the moral mechanisms that underpin doping intentions across cultures so than bespoke value-based anti-doping training programmes may be developed."
+summary = "This project proposes to examine the moral mechanisms that underpin doping intentions across cultures so that a bespoke value-based anti-doping training programmes may be developed."
 
 # Is this a featured talk? (true/false)
 featured = false
