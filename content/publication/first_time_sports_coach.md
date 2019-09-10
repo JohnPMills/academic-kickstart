@@ -18,7 +18,7 @@ publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
 publication = "*Betwixt Books"
-publication_short = "*Betwixy*"
+publication_short = "*Betwixt*"
 
 # Abstract and optional shortened version.
 abstract = "In this introductory coaching book for first-time sports coaches, Dr John Mills presents 125 tips based on his two decades working as a coach and university lecturer. The book is written in an introductory tone, while signposting readers to evidence from within the academic literature. First-Time Sports Coach has been written to complement traditional coaching manuals that often focus almost exclusively on practices. Instead of coaching practices, this book focuses on the topics that are not commonly covered in coaching manuals. Specifically, the book aims to help you become a more effective coach and discusses ways that you can enhance your intrapersonal knowledge (i.e., Self- Development, and Leading the Way), interpersonal skills (i.e., Managing the Group, Developing the Person, Developing Relationships, Developing the Team, and Communicating with Players), the way you structure your coaching practice (i.e., Getting Organised, & Creating a Positive Environment), and the way you evaluate your efforts (i.e., Evaluation). The book adopts a "player-centred approach" to sports coaching throughout and encourages first-time coaches to put identifying and meeting their player's needs at the forefront of their thinking. First-Time Sports Coach is invaluable reading for any novice coach who is starting their coaching journey."
@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "ebook cover.jpg"
+image = "ebookcover.jpg"
 caption = "First-Time Sports Coach"
 
 +++
