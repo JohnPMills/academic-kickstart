@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Lecturer in Sports Performance and Coaching"
+role = "Lecturer and Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -78,6 +78,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-John P. Mills is a lecturer in sports performance and coaching in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex, UK. His research interests include leadership and coaching, moral (character) development, teamwork and group dynamics, and anti-doping. He leads the Developing Young People through Sport group, which examines ways in which sports competition and practice can be engineered for positive youth development.
+I am the founder of <a href="https://www.sportrxiv.org">SportRχiv</a>, the Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">(STORK)</a>, and the <a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport</a> Group Lead at the University of Essex.
 
-Dr Mills is also the founder of <a href="https://www.sportrxiv.org">SportRχiv</a> and is currently serving as the Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">(STORK)</a>. He is also a British Psychological Society Chartered Psychologist (CPsychol) a member of the Division of Sport and Exercise Psychology, and a Fellow of the Higher Education Academy.
+
+My research interests include leadership and coaching, moral (character) development, teamwork and group dynamics, and anti-doping. I am also a British Psychological Society Chartered Psychologist (CPsychol) a member of the Division of Sport and Exercise Psychology, and a Fellow of the Higher Education Academy.
