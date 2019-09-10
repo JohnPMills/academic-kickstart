@@ -25,7 +25,7 @@ abstract = "In this introductory coaching book for first-time sports coaches, Dr
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "featured.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
