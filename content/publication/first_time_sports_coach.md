@@ -17,7 +17,7 @@ authors = ["JP Mills"]
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "*Betwixt Books"
+publication = "*Betwixt Books*"
 publication_short = "*Betwixt*"
 
 # Abstract and optional shortened version.
