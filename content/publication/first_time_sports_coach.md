@@ -1,7 +1,7 @@
 +++
 title = "First-Time Sports Coach"
 date = 2019-08-11T00:00:00
-
+# featured = "true"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["JP Mills"]
 
