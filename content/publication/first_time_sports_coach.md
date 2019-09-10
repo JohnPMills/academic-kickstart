@@ -25,7 +25,7 @@ abstract = "In this introductory coaching book for first-time sports coaches, Dr
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi_pr2U_8bkAhUOhRoKHS52CSoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.co.uk%2FFirst-Time-Sports-Coach-John-Mills-ebook%2Fdp%2FB07W984CNP&psig=AOvVaw2Clph4H1o16Ee4TskHIoKZ&ust=1568230269752527"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -36,14 +36,14 @@ selected = true
    projects = [""]
 
 # Links (optional).
-url_pdf = "https://www.amazon.co.uk/First-Time-Sports-Coach-John-Mills-ebook/dp/B07W984CNP"
+url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.amazon.co.uk/First-Time-Sports-Coach-John-Mills-ebook/dp/B07W984CNP"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
