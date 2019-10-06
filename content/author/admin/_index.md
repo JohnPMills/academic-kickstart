@@ -18,6 +18,13 @@ organizations = [ { name = "University of Essex", url = "https://www.essex.ac.uk
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include applied ethics and group dynamics in sport."
 
+# List (academic) interests or hobbies
+interests = [
+  "Leadership and Coaching",
+  "Moral (Character) Development",
+  "Teamwork and Group Dynamics",
+  "Anti-Doping"
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "john.mills@essex.ac.uk"
 
@@ -75,6 +82,6 @@ user_groups = ["Researchers", "Visitors"]
 I am the founder of <a href="https://www.sportrxiv.org">SportRχiv</a>, the Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">(STORK)</a>, and the <a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport</a> Group Lead at the University of Essex.
 
 
-My research interests include examining issues pertaining to applied ethics in sport. Example questions include 'Can abusive coaching be justified' and 'How can we consider cultural relativism within anti-doping education?'. I also work with charities and sports teams to examine ways to improve coaching effectiveness, teamwork, and social skills more broadly. 
- 
+My research interests include examining issues pertaining to applied ethics in sport. Example questions include 'Can abusive coaching be justified' and 'How can we consider cultural relativism within anti-doping education?'. I also work with charities and sports teams to examine ways to improve coaching effectiveness, teamwork, and social skills more broadly.
+
 I am a British Psychological Society Chartered Psychologist (CPsychol) a member of the Division of Sport and Exercise Psychology, and a Fellow of the Higher Education Academy.
