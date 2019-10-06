@@ -81,6 +81,6 @@ user_groups = ["Researchers", "Visitors"]
 I am the founder of <a href="https://www.sportrxiv.org">SportRχiv</a>, the Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">(STORK)</a>, and the <a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport</a> Group Lead at the University of Essex.
 
 
-My research interests include examining issues pertaining to applied ethics in sport. Example questions include 'Can abusive coaching be justified' and 'How does cultural relativism affect anti-doping education?'. I also work with charities, sports teams and organizations to examine ways to improve coaching effectiveness, group dynamics, and social skills more broadly.
+My research interests include examining issues pertaining to applied ethics in sport. Example questions include 'Can abusive coaching be justified' and 'How does cultural relativism affect anti-doping education?'. I also work with charities, sports teams and organizations to examine ways to improve coaching effectiveness, group dynamics, and social skills more broadly. Questions around these topics tend to focus on examining 'What is effective coaching' and 'Can we use sport as a vehicle to enhance communication skills?'
 
 I am a British Psychological Society Chartered Psychologist (CPsychol) a member of the Division of Sport and Exercise Psychology, and a Fellow of the Higher Education Academy.
