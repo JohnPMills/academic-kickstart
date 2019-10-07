@@ -83,4 +83,4 @@ I am the founder of <a href="https://www.sportrxiv.org">SportRχiv</a>, the Exec
 
 My research interests include examining issues pertaining to applied ethics in sport. Example questions include 'Can abusive coaching be justified' and 'Does cultural relativism affect anti-doping education?'. I also work with charities, sports teams and organisations to examine ways to improve coaching effectiveness, team functioning, and the influence of sport on developing teamwork and social skills more broadly. Questions around these topics tend to focus on examining 'What is effective coaching' and 'Can we use sport as a vehicle to enhance communication skills?'
 
-I currently supervise four Ph.D. candidates and three MS.D. Candidates. Details of my lab, students, and projects can be found <a href="https://osf.io/tv2uh/wiki/home/">here</a>here. 
+I currently supervise four Ph.D. candidates and three MS.D. Candidates. Details of my lab, students, and projects can be found <a href="https://osf.io/tv2uh/wiki/home/">here</a>. 
