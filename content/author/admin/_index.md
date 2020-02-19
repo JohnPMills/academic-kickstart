@@ -22,7 +22,7 @@ bio = "My research interests include applied ethics and group dynamics in sport.
 interests = [
   "Open Science",
   "Applied Ethics",
-  "Group Dynamics",
+  "Positive Youth Development",
 ]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -78,9 +78,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am the founder of <a href="https://www.sportrxiv.org">SportRχiv</a>, the Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology <a href="https://www.storkinesiology.org">(STORK)</a>, and the <a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport</a> Group Lead at the University of Essex. I am also a British Psychological Society Chartered Psychologist (CPsychol) a member of the Division of Sport and Exercise Psychology, and a Fellow of the Higher Education Academy.
-
-
-My research interests include examining issues pertaining to applied ethics in sport. Example questions include 'Can abusive coaching be justified' and 'Does cultural relativism affect anti-doping education?'. I also work with charities, sports teams and organisations to examine ways to improve coaching effectiveness, team functioning, and the influence of sport on developing teamwork and social skills more broadly. Questions around these topics tend to focus on examining 'What is effective coaching' and 'Can we use sport as a vehicle to enhance communication skills?'
-
-I currently supervise four Ph.D. candidates and three MS.D. Candidates. Details of my lab, students, and projects can be found <a href="https://osf.io/tv2uh/wiki/home/">here</a>. 
+John Mills is a lecturer in Sport and Performance Psychology at the University of Essex and Director of the <a href="https://www.teamresearch.org">Team Research Lab</a>. He received his B.Sc. in Psychology from the University of Suffolk and his Ph.D. from the the University of Birmingham. His research is funded by the British Academy and the World Anti-Doping Agency and focuses on how young people develop in and through sport. This includes research on values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate both individual and group behaviour. He is the founder of  <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> (The Open Access Subject Repository for Sport, Exercise, and Health Research) and the Society for Transparency, Openness, and Replication in Kinesiology (<a href="https://storkinesiology.org">STORK</a> ). He is also the Co-Editor in Chief at Registered Reports in Kinesiology. John teaches modules on Social Psychology in Sport and Exercise (Level 7), Teaching and Learning through Sport (Level 6), and supervises eight postgraduate research students (including five PhD candidates). 
