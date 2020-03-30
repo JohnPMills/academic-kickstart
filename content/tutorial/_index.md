@@ -30,5 +30,5 @@ Please also note that these videos were recorded in front of up to 150-students.
 If you have any questions about any of the content, please email john.mills@essex.ac.uk or tweet me @jpmillsphd.
 
 **Other courses you may wish to consider** <br>
-* <a href="http://ukad.coachwisehub.com/store/750681-clean-sport-advisor-course">UKAD Clean Sport Advisor (Free)</a>
+* <a href="http://ukad.coachwisehub.com/store/750681-clean-sport-advisor-course">UKAD Clean Sport Advisor (Free)</a> <br>
 * <a href="http://ukad.coachwisehub.com/store/299392-coach-clean-v3-2">UKAD Clean Coach (£15)</a>
