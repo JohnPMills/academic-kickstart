@@ -1,5 +1,5 @@
 +++
-title = "Introduction to Sport and Exercise Psychology"
+title = "Aggression in Sport"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 linktitle = "Aggression in Sport"
 [menu.tutorial]
-  parent = "se104"
+  parent = "Sport Psychology"
   weight = 1
 +++
 
