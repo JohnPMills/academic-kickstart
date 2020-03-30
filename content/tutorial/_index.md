@@ -1,5 +1,5 @@
 +++
-title = "Overview"
+title = "Courses"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -10,18 +10,17 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.tutorial]
-  name = "Overview"
+  name = "Courses"
   weight = 1
 +++
 
-This feature can be used for publishing content such as:
+This is a new section on my site in response to a request to help professional football clubs out with CPD during the Covid-19 pandemic. It is very much a work in progress and will develop in time, so please bear with me.
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+In this section, you will find content from the various courses I teach at the University of Essex. These are:
 
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
+* **Introduction to Sport Psychology**
+* **Psychology in the Coaching Process**
+* **Coaching and Learning **
+* **Social Psychology of Sport and Exercise **
 
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
-
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
+I have asked my postgraduate research students to contribute to this project too, so you can expect more new content over the coming weeks. If you have any questions, please email john.mills@essex.ac.uk.
