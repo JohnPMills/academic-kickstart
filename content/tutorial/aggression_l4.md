@@ -9,9 +9,9 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "SE104"
+linktitle = "Aggression in Sport"
 [menu.tutorial]
-  parent = "Undergraduate"
+  parent = "se104"
   weight = 1
 +++
 
