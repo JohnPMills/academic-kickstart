@@ -18,9 +18,13 @@ This is a new section on my site in response to a request to help professional f
 
 In this section, you will find content from the various courses I teach at the University of Essex. These are:
 
-* **Introduction to Sport Psychology**
-* **Psychology in the Coaching Process**
-* **Coaching and Learning **
-* **Social Psychology of Sport and Exercise **
+* Introduction to Sport Psychology
+* Psychology in the Coaching Process
+* Coaching and Learning
+* Social Psychology of Sport and Exercise
 
-I have asked my postgraduate research students to contribute to this project too, so you can expect more new content over the coming weeks. If you have any questions, please email john.mills@essex.ac.uk.
+I have asked my postgraduate research students to contribute to this project too, so you can expect more new content over the coming weeks.
+
+Please also note that these videos were recorded in front of up to 150-students. Having spent a decade coaching, I am not afraid to project my voice, but in hindsight such an approach does not produce the best audio quality.
+
+If you have any questions about any of the content, please email john.mills@essex.ac.uk or tweet me @jpmillsphd.
