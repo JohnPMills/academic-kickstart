@@ -15,7 +15,7 @@ linktitle = "Leadership in Sport"
   weight = 1
 +++
 
-<iframe src="https://panopto.essex.ac.uk/Panopto/Pages/Embed.aspx?id=7c9952fd-b443-4b09-99df-ab530045b1b7&v=1" width="720" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://panopto.essex.ac.uk/Panopto/Pages/Embed.aspx?id=7c9952fd-b443-4b09-99df-ab530045b1b7&v=1" width="720" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen allow="autoplay"></iframe><br>
 
-Journal articles
+Journal articles<br>
 https://www.johnpmills.co.uk/publication/expertpl/

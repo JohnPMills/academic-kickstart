@@ -16,6 +16,6 @@ linktitle = "Advancing Leadership in Sport"
 +++
 
 <iframe src="https://panopto.essex.ac.uk/Panopto/Pages/Embed.aspx?id=54702c77-c3d4-49e5-9771-aae600369240&v=1" width="720" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-Journal articles
-https://www.johnpmills.co.uk/publication/tliiat/
+<br>
+Journal articles<br>
+https://www.johnpmills.co.uk/publication/tliiat/<br>

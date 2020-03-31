@@ -17,14 +17,15 @@ linktitle = "Abusive Coaching"
 
 <iframe src="https://panopto.essex.ac.uk/Panopto/Pages/Embed.aspx?id=456f2816-80fd-49f7-a612-a9820035f97f&v=1" width="720" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-Original paper
-https://www.researchgate.net/publication/295912266_Advancing_Leadership_in_Sport_Time_to_Take_Off_the_Blinkers
+Original paper <br>
+<a href="https://www.researchgate.net/publication/295912266_Advancing_Leadership_in_Sport_Time_to_Take_Off_the_Blinkers">OOriginal paper</a> <br>
 
-Our first response
-https://osf.io/preprints/sportrxiv/u2zd5/
 
-Their response
-https://link.springer.com/article/10.1007/s40279-016-0662-2
+Our first response<br>
+https://osf.io/preprints/sportrxiv/u2zd5/<br>
 
-Our final response
-https://osf.io/preprints/sportrxiv/u2zd5/
+Their response<br>
+https://link.springer.com/article/10.1007/s40279-016-0662-2<br>
+
+Our final response<br>
+https://osf.io/preprints/sportrxiv/u2zd5/<br>
