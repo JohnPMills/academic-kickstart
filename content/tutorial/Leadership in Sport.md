@@ -17,5 +17,5 @@ linktitle = "Leadership in Sport"
 
 <iframe src="https://panopto.essex.ac.uk/Panopto/Pages/Embed.aspx?id=7c9952fd-b443-4b09-99df-ab530045b1b7&v=1" width="720" height="405" style="padding: 0px; border: 1px solid #464646;" frameborder="0" allowfullscreen allow="autoplay"></iframe><br>
 
-Journal articles<br>
-https://www.johnpmills.co.uk/publication/expertpl/
+**Recommended Reading**<br>
+<a href="https://www.johnpmills.co.uk/publication/expertpl/">Paper One</a> <br>
