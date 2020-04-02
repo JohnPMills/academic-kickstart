@@ -31,4 +31,4 @@ If you have any questions about any of the content, please email john.mills@esse
 
 **Other courses you may wish to consider** <br>
 * <a href="http://ukad.coachwisehub.com/store/750681-clean-sport-advisor-course">UKAD Clean Sport Advisor (Free)</a> <br>
-* <a href="http://ukad.coachwisehub.com/store/299392-coach-clean-v3-2">UKAD Clean Coach (£15)</a>
+* <a href="http://ukad.coachwisehub.com/store/299392-coach-clean-v3-2">UKAD Clean Coach (£15)</a><br>
