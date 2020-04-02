@@ -13,3 +13,13 @@ type = "docs"  # Do not modify.
   name = "Podcast"
   weight = 1
 +++
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = ""
+
+Show notes for each episode and guest can be found in the sidebar.
+
+If you have any questions, comments or suggestions, please feel free to email kickingoff@johnpmills.co.uk.
