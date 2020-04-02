@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Blair Evans"
-[menu.podcast
+[menu.podcast]
   parent = "Podcast"
   weight = 1
 +++
