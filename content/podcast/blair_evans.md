@@ -15,4 +15,19 @@ linktitle = "Blair Evans"
   weight = 1
 +++
 
-<div id="backtracks-player" style="max-width: 100%" data-bt-embed="https://player.backtracks.fm/s/799926a54bc594c2/m/730529d2e32be6e4" data-bt-theme="dark" data-bt-show-description="true" data-bt-show-comments="false" data-bt-show-art-cover="true"></div><script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,"script","__btL","__btR","https://player.backtracks.fm/embedder.js"))</script>
+<html>
+  <div data-bt-embed="https://player.backtracks.fm/s/799926a54bc594c2/m/730529d2e32be6e4"
+    data-bt-theme="light"
+    data-bt-show-comments="false"
+    data-bt-show-art-cover="true"
+    data-bt-preview="false">
+  </div>
+</html>
+
+<script>
+(function(p,l,a,y,s){if(p[a])return
+if(p[y])return p[y]();s=l.createElement('script')
+l.head.appendChild((s.async=p[a]=true,
+s.src='https://player.backtracks.fm/embedder.js',
+s))}(window,document,'__btL','__btR'))
+</script>

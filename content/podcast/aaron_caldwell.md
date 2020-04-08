@@ -31,3 +31,14 @@ l.head.appendChild((s.async=p[a]=true,
 s.src='https://player.backtracks.fm/embedder.js',
 s))}(window,document,'__btL','__btR'))
 </script>
+
+**Show Notes**
+<a href="https://www.amazon.co.uk/Letters-Young-Scientist-Edward-Wilson/dp/0871403854/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=">Letters to a Young Scientist</a>
+
+<a href="https://en.wikipedia.org/wiki/Nebraska_Cornhuskers">History of the Nebraska Cornhuskers</a>
+
+<a href="https://aaroncaldwell.us/SuperpowerBook/">Aaron's Guidance Book for using SuperPower</a>
+
+<a href="https://psyarxiv.com/baxsf/">SuperPower Preprint</a>
+
+<a href="https://lakens.github.io/shiny_apps/">SuperPower Shiny App</a>
