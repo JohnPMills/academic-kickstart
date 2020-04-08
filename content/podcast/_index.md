@@ -24,4 +24,4 @@ If you have any questions or suggestions for the podcast, please email johnp.mil
 
 <a href='https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;apn=com.google.android.music&amp;link=https://play.google.com/music/m/Idwbni4znw4sgx3jszwpqetm3ke?t%3DKicking_Off_with_John_Mills%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16' rel='nofollow'><img width='125px' alt='Listen on Google Play Music' src='https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png'/></a>
 
-<img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Light_BG.png" width="558" height="167">
+<img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Light_BG.png" width="139" height="42">
