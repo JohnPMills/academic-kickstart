@@ -15,7 +15,7 @@ type = "docs"  # Do not modify.
 +++
 
 <html>
-  <div data-bt-embed="https://backtracks.fm/feed/8fcac2bd3e01fdfb "
+  <div data-bt-embed="https://player.backtracks.fm/backtracks/backtracks/m/player-example"
     data-bt-theme="light"
     data-bt-show-comments="false"
     data-bt-show-art-cover="true"
