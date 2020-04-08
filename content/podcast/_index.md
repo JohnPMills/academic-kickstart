@@ -14,6 +14,4 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
-Show notes for each episode and guest can be found in the sidebar.
-
-If you have any questions, comments or suggestions, please feel free to email kickingoff@johnpmills.co.uk.
+<iframe src="https://backtracks.fm/feed/8fcac2bd3e01fdfb" style="border:none;"></iframe> 
