@@ -14,4 +14,26 @@ linktitle = "Kyle Paradis"
   parent = "Podcast"
   weight = 1
 +++
-Coming soon!
+<html>
+  <div data-bt-embed="https://player.backtracks.fm/s/799926a54bc594c2/m/b9ec986bf1f68891"
+    data-bt-theme="light"
+    data-bt-show-comments="false"
+    data-bt-show-art-cover="true"
+    data-bt-preview="false">
+  </div>
+</html>
+
+
+<script>
+(function(p,l,a,y,s){if(p[a])return
+if(p[y])return p[y]();s=l.createElement('script')
+l.head.appendChild((s.async=p[a]=true,
+s.src='https://player.backtracks.fm/embedder.js',
+s))}(window,document,'__btL','__btR'))
+</script>
+
+
+
+**Show Notes** <br>
+To follow
+
