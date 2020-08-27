@@ -3,7 +3,7 @@ title = "Moving Sport and Exercise Science Forward: A Call for the Adoption of M
 date = 2020-02-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aaron R. Caldwell", "Andrew D. Vigotsky", "Matthew S. Tenan", "Remi Radel", "David T. Mellor", "Andreas Kreutzer", "Ian M. Lahart", "John P Mills", "Matthieu P. Boisgontier", & "Consortium for Transparency in Exercise Science Collaborators"]
+authors = ["Aaron R. Caldwell", "Andrew D. Vigotsky", "Matthew S. Tenan", "Remi Radel", "David T. Mellor", "Andreas Kreutzer", "Ian M. Lahart", "John P Mills", "Matthieu P. Boisgontier", "Consortium for Transparency in Exercise Science Collaborators"]
 
 # Publication type.
 # Legend:
