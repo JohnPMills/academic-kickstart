@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "John P. Mills"
+name = "John P. Mills, PhD"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -21,8 +21,9 @@ bio = "My research interests include applied ethics and group dynamics in sport.
 # List (academic) interests or hobbies
 interests = [
   "Open Science",
-  "Applied Ethics",
   "Positive Youth Development",
+  "Applied Ethics",
+  "Leadership and Group Dynamics",
 ]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -35,13 +36,13 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Transformational Leadership"
+  course = "PhD, Psychology of Sport"
   institution = "University of Birmingham"
   year = 2015
 
 [[education.courses]]
-  course = "BSc in Psychology and Childhood Development"
-  institution = "Suffolk University"
+  course = "BSc, Psychology and Childhood Development"
+  institution = "University of Suffolk"
   year = 2011
 
 # Social/Academic Networking
@@ -78,8 +79,18 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-John Mills is a lecturer in Sport and Performance Psychology at the University of Essex and Director of the Team Research Lab. He received his B.Sc. in Psychology and Childhood Development from the University of Suffolk and his Ph.D. from the the University of Birmingham. His research is funded by the British Academy and the World Anti-Doping Agency and focuses on how young people develop in and through sport. This includes research on values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate both individual and group behaviour. He is the founder of  <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> (The Open Access Subject Repository for Sport, Exercise, and Health Research) and the Society for Transparency, Openness, and Replication in Kinesiology (<a href="https://www.storkinesiology.org">STORK</a>). He is also the Co-Editor in Chief at Registered Reports in Kinesiology. John teaches modules on Social Psychology in Sport and Exercise (Level 7), Teaching and Learning through Sport (Level 6), and supervises eight postgraduate research students (including five PhD candidates). 
+I received my B.Sc. in Psychology and Childhood Development from the University of Suffolk in 2011 and my Ph.D. from the the University of Birmingham in 2015. Currently, I am a lecturer in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. I also head up the Developing Young People through Sport (DYPS) Research Group, and am Director of the Team Research Lab. My expertise lies at the intersection between Social, Moral, and Developmental Psychology. My research examines ways we can positively affect the development of young people. This includes research on values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate both individual and group behaviour. I am particularly interested in character development, the development of interpersonal skills (e.g., leadership and communication), and enhancing mental health literacy. Most commonly this is done through game-based activities (e.g., sport and video games) using Social-Cognitive Theory as a theoretical framework. I think that makes me Social-Moral Developmental Psychologist, but for better or worse, I don't really fit into any one neat box. 
 
-John's book <a href="https://www.amazon.com/dp/B07W984CNP">'First-Time Sports Coach'</a> is now available on Amazon and through your local bookstore. 
+I also hold an interest in performance sport, both in terms of anti-doping education, athlete well-being, and talent identification and development. Before becoming a lecturer, I aspired to be a football coach and worked as a community and academy coach for more than a decade. As a coach, I worked for two professional football clubs, a range of semi-professional clubs, and in the United States for Major League Soccer. As a researcher, I have been fortunate to work with two international football managers, English Premier League and Football League clubs, and to have my work funded by the World Anti-Doping Agency twice. My research has also been funded by the British Academy, Leadership Foundation for higher Education and a range of other organisations. 
+
+I have also had the privilege to consult for a major UK-based football charity, private schools, and mental health and well-being organisations. I really enjoy this aspect of the job and am happy to work with organisations who do meaningful work or are open-minded and seeking to rigorously test their ideas. I have previously held Chartered status with the British Psychological Society (although I have let it slide) and am a current Fellow of the Higher Education Academy. 
+
+I am an avid supporter of Open Science and founded <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> (The Open Access Subject Repository for Sport, Exercise, and Health Research) in 2017. I was also elected as the inaugural Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology (<a href="https://www.storkinesiology.org">STORK</a>) between 2019-2020 and continue to serve on the Executive Board. I am also the Co-Editor in Chief at Registered Reports in Kinesiology, a Section Editor at Communications in Kinesiology, and am on the Editorial Board of Science and Medicine in Football. 
+
+As a lecturer, I have worked at five UK-based Higher Education Institutions and developed somewhere in the region of 15 to 20 modules. I currently lead modules on Social Psychology in Sport and Exercise; and Masterclasses in Coaching (Level 7), and Teaching and Learning through Sport (Level 6). I also supervise eight postgraduate research students (including five PhD candidates), seven undergraduate dissertation students, and an as yet defined cohort of taught masters students. 
+
+In 2019, outside of work, I wrote a book for novice sports coaches called <a href="https://www.amazon.com/dp/B07W984CNP">  'First-Time Sports Coach'</a>. The book is now available on Amazon and through your local bookstore. I also co-authored a charity fundraising children's book for my late father called <a href="https://www.amazon.co.uk/Dipper-Duck-John-P-Mills/dp/1533377898"> 'Dipper the Duck'</a>.. I enjoy writing children's stories and have a series that I have been working on since 2019 about youth sport. I hope to release the first of these books in 2021 -- we will see!
+
+If you'd like to get in touch to discuss any aspect of what I have written here, please feel free to send me an (<a mailto="JohnP.Mills@outlook.com" email </a>.
 
 
