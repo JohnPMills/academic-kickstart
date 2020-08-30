@@ -27,7 +27,7 @@ interests = [
 ]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ["john.mills@essex.ac.uk"]
+email = ["johnp.mills@outlook.com"]
 
 
 # Organizational groups that you belong to (for People widget)
@@ -53,12 +53,12 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:john.mills@essex.ac.uk".
+  link = "#contact"  # For a direct email link, use "mailto:johnp.mills@outlook.com".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/jpmillsphd"
+  link = "https://twitter.com/johnpmillsphd"
 
 [[social]]
   icon = "google-scholar"
@@ -79,17 +79,17 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I received my B.Sc. in Psychology and Childhood Development from the University of Suffolk in 2011 and my Ph.D. from the the University of Birmingham in 2015. Currently, I am a lecturer in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. I also head up the Developing Young People through Sport (DYPS) Research Group, and am Director of the Team Research Lab. 
+I received my B.Sc. in Psychology and Childhood Development from the University of Suffolk in 2011 and my Ph.D. from the the University of Birmingham in 2015. Currently, I am a lecturer in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. I also head up the Developing Young People through Sport (DYPS) Research Group and am Director of the Team Research Lab. 
 
 My expertise lies at the intersection between Social, Moral, and Developmental Psychology. My research examines ways we can positively affect the development of young people. This includes research on values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate both individual and group behaviour. I am particularly interested in character development, the development of interpersonal skills (e.g., leadership and communication), and enhancing mental health literacy. Most commonly this is done through game-based activities (e.g., sport and video games) using Social-Cognitive Theory as a theoretical framework. I think that makes me Social-Moral Developmental Psychologist, but for better or worse, I don't really fit into any one neat box. 
 
-I also hold an interest in performance sport, both in terms of anti-doping education, athlete well-being, and talent identification and development. Before becoming a lecturer, I aspired to be a football coach and worked as a community and academy coach for more than a decade. As a coach, I worked for two professional football clubs, a range of semi-professional clubs, and in the United States for Major League Soccer. As a researcher, I have been fortunate to work with two international football managers, English Premier League and Football League clubs, and to have my work funded by the World Anti-Doping Agency twice. My research has also been funded by the British Academy, Leadership Foundation for higher Education and a range of other organisations. 
+I also hold an interest in performance sport, both in terms of anti-doping education, athlete well-being, and talent identification and development. Before becoming a lecturer, I aspired to be a football coach and worked as a community and academy coach for more than a decade. As a coach, I worked for two professional football clubs, a range of semi-professional clubs, and in the United States for Major League Soccer. As a researcher, I have been fortunate to work with two international football managers, English Premier League and Football League clubs, and to have my work funded by the World Anti-Doping Agency twice. My research has also been funded by the British Academy, Leadership Foundation for higher Education, and a range of other organisations. 
 
 During my time in academia, I have had the privilege to consult for a major UK-based football charity, private schools, and mental health and well-being organisations. I really enjoy this aspect of the job and am happy to work with organisations who do meaningful work or are seeking to rigorously test their ideas. I have previously held Chartered status with the British Psychological Society (although I have let it slide this year) and am a current Fellow of the Higher Education Academy. 
 
 I am an avid supporter of Open Science and founded <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> (The Open Access Subject Repository for Sport, Exercise, and Health Research) in 2017. I was also elected as the inaugural Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology (<a href="https://www.storkinesiology.org">STORK</a>) between 2019-2020 and continue to serve on the Executive Board. I am also the Co-Editor in Chief at Registered Reports in Kinesiology, a Section Editor at Communications in Kinesiology, and am on the Editorial Board of Science and Medicine in Football. 
 
-As a lecturer, I have worked at five UK-based Higher Education Institutions and developed somewhere in the region of 15 to 20 modules. I currently lead modules on Social Psychology in Sport and Exercise; and Masterclasses in Coaching (Level 7), and Teaching and Learning through Sport (Level 6). I also supervise eight postgraduate research students (including five PhD candidates), seven undergraduate dissertation students, and an as yet defined cohort of taught masters students. 
+As a lecturer, I have worked at five UK-based Higher Education Institutions and developed somewhere in the region of 15 to 20 modules. I currently lead modules on Social Psychology in Sport and Exercise; and Masterclasses in Coaching (Level 7), and Teaching and Learning through Sport (Level 6). I also supervise eight postgraduate research students (including five PhD candidates), seven undergraduate dissertation students, and an as yet defined cohort of taught masters students -- all of whom make up my lab. 
 
 Outside of work, I wrote a book for novice sports coaches in the summer of 2019 called <a href="https://www.amazon.com/dp/B07W984CNP">  'First-Time Sports Coach'</a>. The book is now available on Amazon and through your local bookstore. I also co-authored a charity fundraising children's book for my late father called <a href="https://www.amazon.co.uk/Dipper-Duck-John-P-Mills/dp/1533377898"> 'Dipper the Duck'</a>. I enjoy writing children's stories for my own children and have a series that I have been working on since 2019 that combines my passions for psychology and sport. I hope to release the first of these books in 2021 -- we will see!
 
