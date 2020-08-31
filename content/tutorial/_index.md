@@ -27,7 +27,7 @@ I have asked my postgraduate research students to contribute to this project too
 
 Please also note that these videos were recorded in front of up to 150-students. Having spent a decade coaching, I am not afraid to project my voice, but in hindsight such an approach does not produce the best audio quality.
 
-If you have any questions about any of the content, please email john.mills@essex.ac.uk or tweet me @jpmillsphd.
+If you have any questions about any of the content, please email johnp.mills[at]outlook[dot]com or tweet me @johnpmillsphd.
 
 **Other courses you may wish to consider** <br>
 * <a href="http://ukad.coachwisehub.com/store/750681-clean-sport-advisor-course">UKAD Clean Sport Advisor (Free)</a> <br>
