@@ -3,7 +3,7 @@ title = "Response to: Cruickshank and Collins (2017) ‘Response to Mills and Bo
 date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["JP Mills", " ID Boardley]
+authors = ["JP Mills", " ID Boardley"]
 
 # Publication type.
 # Legend:
