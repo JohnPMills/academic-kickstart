@@ -17,7 +17,7 @@ authors = ["John P Mills"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*TBD*"
+publication = "*PsyArXiv*"
 publication_short = ""
 
 # Abstract and optional shortened version.
