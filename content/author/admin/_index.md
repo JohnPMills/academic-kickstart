@@ -13,7 +13,7 @@ role = "Lecturer and Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Essex", url = "https://www.essex.ac.uk/people/mills29305/john-mills/" },{name = "Team Research Lab", url = "https://www.teamresearchlab.org"}
+organizations = [ { name = "University of Essex", url = "https://www.essex.ac.uk/people/mills29305/john-mills/" },{name = "Team Research Lab", url = "https://www.teamresearchlab.org"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include applied ethics, leadership, and positive youth development."
