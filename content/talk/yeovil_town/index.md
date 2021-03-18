@@ -3,8 +3,8 @@ title = "Developing Communication and Teamwork Skills for Football"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-03-13T19:00:00
-date_end = 2019-03-13T20:00:00
+date = 2021-02-02T19:00:00
+date_end = 2021-02-02T20:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
