@@ -3,7 +3,7 @@ title = "DDoping practices in international weightlifting: analysis of sanctione
 date = 2021-01-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alexander Kolliari-Turner", "Brian Oliver", "Giscard Lima", "John P. Mills", "Guan Wang", "Yannis Pitsiladis", and "Fergus M. Guppy"]
+authors = ["Alexander Kolliari-Turner", "Brian Oliver", "Giscard Lima", "John P. Mills", "Guan Wang", "Yannis Pitsiladis", "Fergus M. Guppy"]
 
 # Publication type.
 # Legend:
