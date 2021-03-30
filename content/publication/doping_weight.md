@@ -1,5 +1,5 @@
 +++
-title = "DDoping practices in international weightlifting: analysis of sanctioned athletes/support personnel from 2008 to 2019 and retesting of samples from the 2008 and 2012 Olympic Games"
+title = "Doping practices in international weightlifting: analysis of sanctioned athletes/support personnel from 2008 to 2019 and retesting of samples from the 2008 and 2012 Olympic Games"
 date = 2021-01-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
