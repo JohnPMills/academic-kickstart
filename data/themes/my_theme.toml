@@ -14,13 +14,13 @@ menu_text_active = "#ffcc00"
 menu_title = "#118AB2"
 
 # Backgrounds
-background = "#14213d"
-home_section_odd = "#14213d"
-home_section_even = "#1e1e24"
+background = "#fffbfc"
+home_section_odd = "#fffbfc"
+home_section_even = "#ffffff"
 
-dark_background = ""
-dark_home_section_odd = ""
-dark_home_section_even = ""
+dark_background = "#14213d"
+dark_home_section_odd = "#14213d"
+dark_home_section_even = "#1e1e24"
 
 link = "#fca311"
 link_hover = "#ffcc00"
