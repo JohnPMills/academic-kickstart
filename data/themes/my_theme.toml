@@ -2,7 +2,7 @@
 name = "my_theme"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
 primary = "#14213d"
@@ -18,9 +18,9 @@ background = "#14213d"
 home_section_odd = "#1e1e24"
 home_section_even = "#14213d"
 
-dark_background = "#14213d"
-dark_home_section_odd = "#1e1e24"
-dark_home_section_even = "#14213d"
+dark_background = ""
+dark_home_section_odd = ""
+dark_home_section_even = ""
 
 link = "#fca311"
 link_hover = "#ffcc00"

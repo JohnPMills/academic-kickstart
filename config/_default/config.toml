@@ -13,7 +13,7 @@ baseurl = "https://johnpmills.co.uk/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license."
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-72722242-1"
