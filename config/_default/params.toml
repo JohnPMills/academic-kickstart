@@ -66,7 +66,7 @@ appointment_url = "https://calendly.com/jpmillsphd"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jpmillsphd"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/johnpmillscom"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:drjohnmills?call"},
   ]
 
