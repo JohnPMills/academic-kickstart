@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Lecturer and Researcher"
+role = "Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -78,17 +78,11 @@ user_groups = ["Researchers", "Visitors"]
   link = "files/cv.pdf"
 
 +++
+Between 9.30am and 4.30pm, I am a lecturer in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. Outside of work, I run an education focused <a href="https://awfullygood.org">not-for-profit</a>. I'm also married and have two boys under 5, which keeps me pretty busy. On the rare occasion I get an afternoon to myself, I love watching football and in a previous life worked as a coach for the best part of a decade. I also enjoy getting lost watching random videos on YouTube and spend more time on <a href="https://twitter.com/johnpmillscom">Twitter</a> than I think is healthy. 
 
-I received my B.Sc. in Psychology and Childhood Development from the University of Suffolk in 2011 and my Ph.D. from the the University of Birmingham in 2015. Currently, I am a lecturer in the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. I also head up the Developing Young People through Sport (DYPS) Research Group and am Director of the Team Research Lab. 
+At work, I run my own <a href="https://teamresearchlab.org">lab</a> which currently has around 15 students working within it. I also head up the a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport Research Group</a>, founded <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a>, and more recently (<a href="https://www.storkinesiology.org">the Society for Transparency, Openness, and Replication in Kinesiology (STORK)</a>). I enjoy creating tools, solving problems, and bringing people together around a vision or project. I know this sounds corny but it's true. 
 
-My training lies at the intersection between Social and Developmental Psychology and my research examines ways we can use sport and team environments to positively affect the development of young people. I am particularly interested in the development of intrapersonal and interpersonal skills and mechanisms. This includes research on values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour. I have previously held Chartered status with the British Psychological Society (although I have let it slide this year) and am a current Fellow of the Higher Education Academy
+As a researcher, my training lies at the intersection between Social and Developmental Psychology and my research examines ways we can use sport and team environments to positively affect the development of young people. I am particularly interested in the development of intrapersonal and interpersonal skills and mechanisms. This includes research on values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour. My published research -- which is all available to download here -- generally falls within these topics but I'm a curious person and occasionally you'll find something left field that I was just interested in. 
 
-Before becoming a lecturer, I worked as a community and academy football coach for more than a decade. As a coach, I worked for two professional football clubs, a range of semi-professional clubs, and in the United States for Major League Soccer. As a researcher, I have been fortunate to work with two international football managers, English Premier League and Football League clubs and managers, and to have my work funded by the World Anti-Doping Agency twice. My research has also been funded by the British Academy, Leadership Foundation for higher Education, and a range of other organisations. I have also had the privilege to work with organisations such as the League Managers Association, Kick It Out, Sports Interactive, and a host of other sport-based companies and charities. I really enjoy this aspect of the job and am happy to work with organisations who do meaningful work or are seeking to rigorously test their ideas. 
-
-I am an avid supporter of Open Science and founded <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> (The Open Access Subject Repository for Sport, Exercise, and Health Research) in 2017. I was also elected as the inaugural Executive Chair of the Society for Transparency, Openness, and Replication in Kinesiology (<a href="https://www.storkinesiology.org">STORK</a>) between 2019-2020 and continue to serve on the Executive Board. I am the Co-Editor in Chief at Registered Reports in Kinesiology, a Section Editor at Communications in Kinesiology, and am on the Editorial Board of Science and Medicine in Football. 
-
-As a lecturer, I have worked at five UK-based Higher Education Institutions and developed somewhere in the region of 15 to 20 modules. I currently lead modules on Social Psychology in Sport and Exercise; and Masterclasses in Coaching (Level 7), and Teaching and Learning through Sport (Level 6). I also supervise eight postgraduate research students (including five PhD candidates), seven undergraduate dissertation students, and two taught masters students -- most of whom make up the members my lab. 
-
-Thanks for your interest and for making it this far. If you'd like to get in touch to discuss any aspect of what I have written here, please feel free to send me an email or tweet (buttons are available under my profile picture). Please also feel free to explore the rest of my website where you will find open access versions to nearly all my published research, podcast episodes, details of ongoing projects, and some free lectures I uploaded to support those searching for CPD opportunities during UK Lockdown in 2020. 
-
+If you have a project you think I might be interested in too, please drop me a message and we can have a chat. 
 
