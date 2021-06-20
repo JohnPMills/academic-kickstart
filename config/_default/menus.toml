@@ -19,26 +19,14 @@
     weight = 30
 
 [[main]]
-  name = "YouTube"
-  url = "https://youtube.com/channel/UCjYfby1P11Nr4mEg8k_e_kw"
-  weight = 40
-
-[[main]]
   name = "Blog"
   url = "https://medium.com/@johnpmills"
-  weight = 50
-
-[[main]]
-  name = "Podcast"
-  url = "#podcast"
-  weight = 60
-
-
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -46,4 +34,4 @@
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
-#    weight = 80
+#    weight = 60
