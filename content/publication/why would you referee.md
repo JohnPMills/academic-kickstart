@@ -17,8 +17,8 @@ authors = ["C Ing", "JP Mills"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*SportRxiv*"
-publication_short = "*SportRxiv*"
+publication = "*Communications in Kinesiology*"
+publication_short = "*CIK*"
 
 # Abstract and optional shortened version.
 abstract = "Adopting a creative yet novel autoethnographic approach, this study explores the experiences of the first author, a newly qualified footballing official. In doing so, the study provides a first person account to showcase the realities of refereeing whereby adding to a small pool of refereeing literature in the process. That said, in providing an evocative account with a theoretical analysis, the study looks to both showcase and explain the demands associated with the position. Therefore, by constructing the said narratives in an easy to understand manner, the study looks to showcases the challenges associated with officiating to a broad audience. While, the study gives a viable explanation to why many newly qualified referees drop out from the role, the study hopes to inform and subsequently aid aspiring officials in their ongoing development."
@@ -37,7 +37,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://osf.io/preprints/sportrxiv/n2ym7/"
+url_preprint = "https://doi.org/10.51224/cik.v1i2.35"
 url_code = ""
 url_dataset = ""
 url_project = ""
