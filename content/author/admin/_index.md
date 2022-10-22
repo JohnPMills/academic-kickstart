@@ -9,24 +9,25 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Researcher and University Lecturer"
+role = "Psychologist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Essex", url = "https://www.essex.ac.uk/people/mills29305/john-mills/" },{name = "Team Research Lab", url = "https://www.teamresearchlab.org"} ]
+organizations = [ { name = "", url = "" },{name = "", url = ""} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Sport Integrity Researcher. Founder of SportRxiv and The Society for Transparency, Openness, and Replication in Kinesiology."
 
 # List (academic) interests or hobbies
 interests = [
-  "Sport Integrity",
-  "Positive Youth Development",
-  "Open Science",
+	"Leadership and Coaching"  
+	"Sport Integrity",
+  	"Positive Youth Development",
+  	"Open Science",
   ]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ["john@awfullygood.org"]
+email = ["john@playaid.org"]
 
 
 # Organizational groups that you belong to (for People widget)
@@ -35,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD, Transformational leadership and social cognition"
+  course = "PhD, Transformational Leadership and Social Cognition"
   institution = "University of Birmingham"
   year = 2015
 
@@ -52,12 +53,12 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:john@awfullygood.org".
+  link = "#contact"  # For a direct email link, use "mailto:john@playaid.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/johnpmillscom"
+  link = "https://twitter.com/drjpmills"
 
 [[social]]
   icon = "google-scholar"
@@ -77,7 +78,20 @@ user_groups = ["Researchers", "Visitors"]
   link = "files/cv.pdf"
 
 +++
-My training lies at the intersection between Social and Developmental Psychology and my research focuses on the integrity of sport. This includes research on values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour. My published research -- which is mostly free to download here -- generally falls within these topics but I'm a curious person and occasionally you'll find something left field that I was just interested in. 
+My training lies at the intersection between Social and Developmental Psychology and my research focuses on two themes. My funded research experience has focused on two themes: Sporting Integrity, and Psychosocial Competency Development. Within the Sport Integrity theme, I focus on
+leadership, coaching, and mentoring; morality and character development; and coach
+and athlete welfare. Within the psychosocial competency theme, my interests focus on
+the development of personal and social skills within both neurotypical and neurodiverse
+populations. 
+
+My research goals are to (1) further enhance my international reputation, (2)
+build upon my existing network of world-leading researchers and continue to develop
+new opportunities for collaboration, (3) develop new insights,
+tackle international challenges, and create new collaborations and mentoring
+opportunities within my lab, and (4) further engage with my scientific communication
+efforts and create meaningful outcomes that positively impact the communities I serve. To
+successfully achieve these goals, I collaborate within and across disciplines (e.g.,
+psychology, philosophy, education, and public health).
 
 At work, I am the Director of <a href="https://teamresearchlab.org">Team Researcher Lab </a> which typically houses around 10-15 students. I also lead the <a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport Research Group</a> within the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. I founded <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> in 2016, and more recently <a href="https://www.storkinesiology.org">the Society for Transparency, Openness, and Replication in Kinesiology</a> (STORK) in 2019. I enjoy creating tools, solving problems, and bringing people together around a vision or project. I know this sounds corny but it's true. Outside of work, I run an education focused <a href="https://awfullygood.org">not-for-profit</a>. Our mission is to support young people to develop the skills they need to thrive in the 21st century and live awfully good lives. I also host a podcast (it's 2022, who doesn't) called <a href="https://podcasts.apple.com/us/podcast/sports-debate-a-fortnightly-podcast-where-academic/id1569350911">Sports Debate</a> and in 2019 I wrote a book called <a href="https://www.amazon.co.uk/dp/1916204503/ref=cm_sw_r_cp_api_i_4EEXGH5SEM5HZKR0KJGZ">First Time Sports Coach.</a>
 
