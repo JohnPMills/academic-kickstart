@@ -21,17 +21,7 @@ publication = "*Research in Autism Spectrum Disorders*"
 publication_short = "*RASD*"
 
 # Abstract and optional shortened version.
-abstract = "Background
-Autism Spectrum Disorder (ASD) is a common neurodevelopmental condition characterized by social-communication deficits and is often accompanied by an array of autism-specific traits, including cognitive and motor differences. Research has begun to investigate the utility of exergames (virtual exercise games) for combating some of the functionally impairing facets of ASD. However, no review to date has investigated the positive effects of exergaming for young autistic individuals, exclusive of their effects on fitness-related/health-related outcomes.
-
-Methods
-We systematically reviewed the literature for articles published between 1990 and 2020, which aimed to examine the effectiveness of exergames for targeting some of the facets observed in autistic children, exclusive of physical fitness-related outcomes.
-
-Results
-Out of 193 relevant articles, 10 met the inclusion criteria. Some studies showed initial beneficial effects of exergaming for executive function and motor skills, however more work is needed to examine the beneficial effects of exergaming for social development in young autistic individuals.
-
-Conclusion
-The present review suggests the potential use of exergaming for enhancing some functions in ASD and future research is needed to expand the use of exergames for supporting social-communication skills. Furthermore, additional studies using rigorous research designs are needed to draw stronger conclusions about the effects of exergames for the young autistic population."
+abstract = "Autism Spectrum Disorder (ASD) is a common neurodevelopmental condition characterized by social-communication deficits and is often accompanied by an array of autism-specific traits, including cognitive and motor differences. Research has begun to investigate the utility of exergames (virtual exercise games) for combating some of the functionally impairing facets of ASD. However, no review to date has investigated the positive effects of exergaming for young autistic individuals, exclusive of their effects on fitness-related/health-related outcomes. We systematically reviewed the literature for articles published between 1990 and 2020, which aimed to examine the effectiveness of exergames for targeting some of the facets observed in autistic children, exclusive of physical fitness-related outcomes.Out of 193 relevant articles, 10 met the inclusion criteria. Some studies showed initial beneficial effects of exergaming for executive function and motor skills, however more work is needed to examine the beneficial effects of exergaming for social development in young autistic individuals. The present review suggests the potential use of exergaming for enhancing some functions in ASD and future research is needed to expand the use of exergames for supporting social-communication skills. Furthermore, additional studies using rigorous research designs are needed to draw stronger conclusions about the effects of exergames for the young autistic population."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -58,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#   url_custom = [{name = "Open Access", url = "https://osf.io/preprints/sportrxiv/sqgpm/}]
+#   url_custom = [{name = "Open Access", url = "https://osf.io/preprints/sportrxiv/sqgpm/"}]
 
 # Does the content use math formatting?
 math = true

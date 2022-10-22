@@ -37,7 +37,7 @@ selected = false
 
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S1360859222001255"
-url_preprint = "https://reader.elsevier.com/reader/sd/pii/S1360859222001255?token=F1FBECEB57DDB736D66B8AD6C88775ABB13EF40480CC33AB3CB68A37ADCAE876C6EF90EE37DA7E681E307B3BE81BDFF7&originRegion=eu-west-1&originCreation=20221022124328"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#   url_custom = [{name = "Open Access", url = "https://osf.io/preprints/sportrxiv/sqgpm/}]
+#   url_custom = [{name = "Open Access", url = "https://osf.io/preprints/sportrxiv/sqgpm/"}]
 
 # Does the content use math formatting?
 math = true

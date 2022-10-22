@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#   url_custom = [{name = "Open Access", url = "https://osf.io/preprints/sportrxiv/sqgpm/}]
+#   url_custom = [{name = "Open Access", url = "https://osf.io/preprints/sportrxiv/sqgpm/"}]
 
 # Does the content use math formatting?
 math = true
