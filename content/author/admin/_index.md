@@ -20,9 +20,11 @@ bio = "Sport Integrity Researcher. Founder of SportRxiv and The Society for Tran
 
 # List (academic) interests or hobbies
 interests = [
-	"Leadership and Coaching",  
-	"Sport Integrity",
-  	"Positive Youth Development",
+	"Leadership, Coaching, and Mentoring",  
+	"Morality, Integrity, and Character Development",
+  	"Athlete and Coach Welfare",
+	"Psychosocial Competency Development",
+	"Positive Youth Development",
   	"Open Science",
   ]
 
