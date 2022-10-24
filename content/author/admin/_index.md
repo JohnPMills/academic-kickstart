@@ -79,7 +79,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "files/cv.pdf"
 
 +++
-My training lies at the intersection between Social, Cognitive and Developmental Psychology and I have primarily applied this training to the fields of Sport and Education. Broadly speaking, I am interested in values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour. My published research has focused on the impact of leadership and coaching behaviour; the development of character; and coach and athlete welfare (including anti-doping). 
+My training lies at the intersection between Social, Cognitive and Developmental Psychology and I have primarily applied this training to the fields of Sport and Education. Broadly speaking, I am interested in values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour. My published research has focused on the impact of leadership and coaching behaviour; coach and athlete welfare (including anti-doping); and social, emotional, and character development.
 
 My research goals are to (1) develop new insights, tackle international challenges, and create new collaborations and mentoring, (2) build upon my existing network of world-leading researchers and continue to develop new opportunities for collaboration for myself and those who work within my lab, (3) further enhance my international reputation as a researcher, and (4) further engage with my scientific communication efforts and create meaningful outcomes that positively impact the communities I serve. To successfully achieve these goals, I collaborate within and across disciplines (e.g., psychology, philosophy, education, and public health).
 
