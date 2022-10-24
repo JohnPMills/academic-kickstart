@@ -20,10 +20,9 @@ bio = "Sport Integrity Researcher. Founder of SportRxiv and The Society for Tran
 
 # List (academic) interests or hobbies
 interests = [
-	"Leadership, Coaching, and Mentoring",  
-	"Morality, Integrity, and Character Development",
+	"Leadership and Coaching",  
+	"Character Development",
   	"Athlete and Coach Welfare",
-	"Psychosocial Competency Development",
 	"Positive Youth Development",
   	"Open Science",
   ]
@@ -80,22 +79,17 @@ user_groups = ["Researchers", "Visitors"]
   link = "files/cv.pdf"
 
 +++
-My training lies at the intersection between Social and Developmental Psychology and my research focuses on two themes: Sporting Integrity, and Psychosocial Competency Development. Within the Sport Integrity theme, I focus on leadership, coaching, and mentoring; morality and character development; and coach and athlete welfare. Within the psychosocial competency theme, my interests focus on
-the development of personal and social skills within both neurotypical and neurodiverse
-populations. There is some overlap and broadly speaking, I am interested in values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour.
+My training lies at the intersection between Social, Cognitive and Developmental Psychology and I have primarily applied this training to the fields of Sport and Education. Broadly speaking, I am interested in values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour. My published research has focused on the impact of leadership and coaching behaviour; the development of character; and coach and athlete welfare (including anti-doping). 
 
-My research goals are to (1) further enhance my international reputation, (2)
-build upon my existing network of world-leading researchers and continue to develop
-new opportunities for collaboration, (3) develop new insights,
-tackle international challenges, and create new collaborations and mentoring
-opportunities within my lab, and (4) further engage with my scientific communication
-efforts and create meaningful outcomes that positively impact the communities I serve. To
-successfully achieve these goals, I collaborate within and across disciplines (e.g.,
-psychology, philosophy, education, and public health).
+My research goals are to (1) develop new insights, tackle international challenges, and create new collaborations and mentoring, (2) build upon my existing network of world-leading researchers and continue to develop new opportunities for collaboration for myself and those who work within my lab, (3) further enhance my international reputation as a researcher, and (4) further engage with my scientific communication efforts and create meaningful outcomes that positively impact the communities I serve. To successfully achieve these goals, I collaborate within and across disciplines (e.g., psychology, philosophy, education, and public health).
 
-At work, I am the Director of <a href="https://teamresearchlab.org">Team Researcher Lab </a> which typically houses around 10-15 students. I also lead the <a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport Research Group</a> within the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. I founded <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> in 2016, and more recently <a href="https://www.storkinesiology.org">the Society for Transparency, Openness, and Replication in Kinesiology</a> (STORK) in 2019. I enjoy creating tools, solving problems, and bringing people together around a vision or project. Outside of work, I run an <a href="https://playaid.net">NGO</a> that uses the power of play to enhance young people's health and wellbeing. I also host a podcast (it's 2022, who doesn't) called <a href="https://podcasts.apple.com/us/podcast/sports-debate-a-fortnightly-podcast-where-academic/id1569350911">Sports Debate</a> and in 2019 I wrote a book called <a href="https://www.amazon.co.uk/dp/1916204503/ref=cm_sw_r_cp_api_i_4EEXGH5SEM5HZKR0KJGZ">First Time Sports Coach.</a>
+I have also been working at the forefront of encouraging the adoption of open science practices and norms in the field of Sport and Exercise Science/Kinesiology/Movement Sciences. I founded <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> in 2016, and more recently <a href="https://www.storkinesiology.org">the Society for Transparency, Openness, and Replication in Kinesiology</a> (STORK) in 2019. SportRxiv has now made over 500 manuscripts openly accessible to all and STORK has over 200 members worldwide. 
 
-I'm also married and have two young sons, who keep me pretty busy. On the rare occasion I get an afternoon to myself, I love watching football and try to see my beloved West Ham United as much as I can. Before entering academia, I spent 10 years working as an academy and community football coach both within the UK and US. I was fortunate to work for clubs such as Colchester United, Ipswich Town, Penrhyncoch, Chelmsford City, Coggeshall United and more. In one guise or another, I have now been stood in front of a group of young people for over 20 years supporting them to be the very best version of themselves. 
+At work, I am the Director of <a href="https://teamresearchlab.org">Team Researcher Lab </a> which typically houses around 10-15 students. I also lead the <a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport Research Group</a> within the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. Outside of work, I run an <a href="https://playaid.net">NGO</a> that uses the power of play to enhance young people's health and wellbeing. 
+
+I also host a podcast (it's 2022, who doesn't) called <a href="https://podcasts.apple.com/us/podcast/sports-debate-a-fortnightly-podcast-where-academic/id1569350911">Sports Debate</a> and in 2019 I wrote a book called <a href="https://www.amazon.co.uk/dp/1916204503/ref=cm_sw_r_cp_api_i_4EEXGH5SEM5HZKR0KJGZ">First Time Sports Coach.</a> 
+
+Before entering academia, I spent 10 years working as an academy and community football coach both within the UK and US. I was fortunate to work for clubs such as Colchester United, Ipswich Town, Penrhyncoch, Chelmsford City, Coggeshall United and as a Player Development Officer in Connecticut (US). I have also worked as a school sports teacher and worked at two colleges managing their football teams. In one guise or another, I have now been stood in front of a group of young people for over 20 years supporting them to be the very best version of themselves. 
 
 If you'd like to discuss anything further, I'm open to grabbing a cup of tea and chatting more -- virtual or otherwise. 
 
