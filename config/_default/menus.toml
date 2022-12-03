@@ -15,12 +15,12 @@
 
 [[main]]
     name = "Posts"
-    url = "#posts"
+    url = "#post"
     weight = 30
 
 [[main]]
-    name = "Podcasts"
-    url = "#podcasts"
+    name = "Podcast"
+    url = "#podcast"
     weight = 40
 
 [[main]]
