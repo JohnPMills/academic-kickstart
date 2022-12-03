@@ -14,23 +14,13 @@
   weight = 20
 
 [[main]]
-    name = "Posts"
-    url = "#post"
-    weight = 30
-
-[[main]]
-    name = "Podcast"
-    url = "#podcast"
-    weight = 40
-
-[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "https://docs.google.com/document/d/e/2PACX-1vTjHNqn69rjIXIvfEE95WWpr_zD3DRDr00Q2GYD4xArfk45ZoZ4SqZgPQAGECNAUJ-w5kY1PDHRohIq/pub"
-#    weight = 60
+#    weight = 40
