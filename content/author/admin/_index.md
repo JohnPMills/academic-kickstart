@@ -16,7 +16,7 @@ role = "Psychologist"
 organizations = [ { name = "", url = "" },{name = "", url = ""} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Sport Integrity Researcher. Founder of SportRxiv and The Society for Transparency, Openness, and Replication in Kinesiology."
+bio = "Founder of SportRxiv, Play Aid, and The Society for Transparency, Openness, and Replication in Kinesiology."
 
 # List (academic) interests or hobbies
 interests = [
@@ -76,7 +76,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/cv.pdf"
+  link = "https://docs.google.com/document/d/e/2PACX-1vTjHNqn69rjIXIvfEE95WWpr_zD3DRDr00Q2GYD4xArfk45ZoZ4SqZgPQAGECNAUJ-w5kY1PDHRohIq/pub"
 
 +++
 My training lies at the intersection between Social, Cognitive and Developmental Psychology and I have primarily applied this training to the fields of Sport and Education. Broadly speaking, I am interested in values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour. My published research has focused on the impact of leadership and coaching behaviour; coach and athlete welfare (including anti-doping); and social, emotional, and character development.
