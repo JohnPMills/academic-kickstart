@@ -14,19 +14,23 @@
   weight = 20
 
 [[main]]
-    name = "Courses"
-    url = "https://courses.awfullygood.org"
+    name = "Posts"
+    url = "#posts"
     weight = 30
+
+[[main]]
+    name = "Podcasts"
+    url = "#podcasts"
+    weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 40
-
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 50
+#    url = "https://docs.google.com/document/d/e/2PACX-1vTjHNqn69rjIXIvfEE95WWpr_zD3DRDr00Q2GYD4xArfk45ZoZ4SqZgPQAGECNAUJ-w5kY1PDHRohIq/pub"
+#    weight = 60
