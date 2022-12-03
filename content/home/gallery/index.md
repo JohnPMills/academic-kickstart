@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 #subtitle = ""
 
 # Order that this section will appear in.
-weight = 66
+weight = 100
 +++
 
 {{< gallery >}}
