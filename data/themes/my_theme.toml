@@ -14,7 +14,7 @@ menu_text_active = "#ffd500"
 menu_title = "#118AB2"
 
 # Backgrounds
-background = "#fef9ef"
+background = "#fff"
 home_section_odd = ""#14213d"
 home_section_even = "#fdfffc"
 
@@ -22,6 +22,6 @@ dark_background = "#fdfffc"
 dark_home_section_odd = "#fdfffc"
 dark_home_section_even = "#fdfffc"
 
-link = "#fdc500"
+link = "#272935"
 link_hover = "#ffd500"
 
