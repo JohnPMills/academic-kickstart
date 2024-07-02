@@ -9,22 +9,19 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Psychologist"
+role = "Psychologist/Open Science Advisor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "", url = "" },{name = "", url = ""} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Founder of SportRxiv, Play Aid, and The Society for Transparency, Openness, and Replication in Kinesiology."
+bio = "Hi, I'm John, a Psychologist and Open Science Advisor based between London and Rotterdam."
 
 # List (academic) interests or hobbies
 interests = [
-	"Leadership and Coaching",  
-	"Character Development",
-  	"Athlete and Coach Welfare",
-	"Positive Youth Development",
   	"Open Science",
+   "Youth Development",
   ]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -79,17 +76,6 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://docs.google.com/document/d/e/2PACX-1vTjHNqn69rjIXIvfEE95WWpr_zD3DRDr00Q2GYD4xArfk45ZoZ4SqZgPQAGECNAUJ-w5kY1PDHRohIq/pub"
 
 +++
-My training lies at the intersection between Social, Cognitive and Developmental Psychology and I have primarily applied this training to the fields of Sport and Education. Broadly speaking, I am interested in values, virtues, norms, practices, identities, and the psychosocial mechanisms that combine to regulate behaviour. My published research has focused on the impact of leadership and coaching behaviour; coach and athlete welfare (including anti-doping); and social, emotional, and character development.
+"For the past 24-years, I have been attempting to make the complex simple and to support the development of young people. I am easily bored and am always looking for new challenges to keep life interesting. I consider myself a problem solver and some of the solutions I have found include: Creating the First Open Access Subject Repository for Sport, Exercise and Health related research called <a href=\"https://www.sportrxiv.org/\">SportRxiv</a>, and bringing together a group of scientists from around the world to form the <a href=\"https://www.tos-kin.org/\">Society for Transparency, Openness, and Reproducibilty in Kinesiology</a> and build out from SportRxiv. Some other problems I am currently working on include changing the academic culture around research integrity through open science at <a href=\"https://www.eur.nl/en\">Erasmus University Rotterdam</a>, and figuring out how best to support online gamers with their mental health at <a href=\"https://www.play-aid.org/\">Play Aid</a>. If you have a problem that you think I can help with, <a href=\"mailto:your-email@example.com\">drop me an email</a>.
 
-My research goals are to (1) develop new insights, tackle international challenges, and create new collaborations and mentoring, (2) build upon my existing network of world-leading researchers and continue to develop new opportunities for collaboration for myself and those who work within my lab, (3) further enhance my international reputation as a researcher, and (4) further engage with my scientific communication efforts and create meaningful outcomes that positively impact the communities I serve. To successfully achieve these goals, I collaborate within and across disciplines (e.g., psychology, philosophy, education, and public health).
-
-I have also been working at the forefront of encouraging the adoption of open science practices and norms in the field of Sport and Exercise Science/Kinesiology/Movement Sciences. I founded <a href="https://osf.io/preprints/sportrxiv">SportRχiv</a> in 2016, and more recently <a href="https://www.storkinesiology.org">the Society for Transparency, Openness, and Replication in Kinesiology</a> (STORK) in 2019. SportRxiv has now made over 500 manuscripts openly accessible to all and STORK has over 200 members worldwide. 
-
-At work, I am the Director of <a href="https://teamresearchlab.org">Team Researcher Lab </a> which typically houses around 10-15 students. I also lead the <a href="https://www.essex.ac.uk/departments/sport-rehabilitation-and-exercise-sciences/research/development-of-young-people-through-sport">Developing Young People through Sport Research Group</a> within the School of Sport, Rehabilitation, and Exercise Sciences at the University of Essex. Outside of work, I run an <a href="https://playaid.net">NGO</a> that uses the power of play to enhance young people's health and wellbeing. 
-
-I also host a podcast (it's 2022, who doesn't) called <a href="https://podcasts.apple.com/us/podcast/sports-debate-a-fortnightly-podcast-where-academic/id1569350911">Sports Debate</a> and in 2019 I wrote a book called <a href="https://www.amazon.co.uk/dp/1916204503/ref=cm_sw_r_cp_api_i_4EEXGH5SEM5HZKR0KJGZ">First Time Sports Coach.</a> 
-
-Before entering academia, I spent 10 years working as an academy and community football coach both within the UK and US. I was fortunate to work for clubs such as Colchester United, Ipswich Town, Penrhyncoch, Chelmsford City, Coggeshall United and as a Player Development Officer in Connecticut (US). I have also worked as a school sports teacher and worked at two colleges managing their football teams. In one guise or another, I have now been stood in front of a group of young people for over 20 years supporting them to be the very best version of themselves. 
-
-If you'd like to discuss anything further, I'm open to grabbing a cup of tea and chatting more -- virtual or otherwise. 
 
